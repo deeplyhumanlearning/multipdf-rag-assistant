@@ -6,7 +6,7 @@ A local document Q&A application that searches across multiple PDF documents, ge
 
 Watch the application walkthrough:
 
-[Document Intelligence RAG Assistant](assets/Document-Intelligence-RAG-Assistant.mp4)
+https://github.com/user-attachments/assets/17669ee5-20eb-4fe2-98e4-bb14aa81b672
 
 ## Architecture
 
