@@ -6,7 +6,7 @@ A local document Q&A application that searches across multiple PDF documents, ge
 
 Watch the application walkthrough:
 
-<video src="assets/Document-Intelligence-RAG-Assistant.mp4" controls playsinline width="100%">Your browser does not support embedded video. [Open the demo video](assets/Document-Intelligence-RAG-Assistant.mp4).</video>
+![Document Intelligence RAG Assistant](assets/Document-Intelligence-RAG-Assistant.mp4)
 
 ## Architecture
 
