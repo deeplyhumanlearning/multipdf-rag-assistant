@@ -8,8 +8,6 @@ Watch the application walkthrough:
 
 <video src="assets/Document-Intelligence-RAG-Assistant.mp4" controls playsinline width="100%">Your browser does not support embedded video. [Open the demo video](assets/Document-Intelligence-RAG-Assistant.mp4).</video>
 
-Save your screen recording as `screenshots/demo.mp4` for this embed to work. GitHub's rendering of repository-hosted video can vary by browser; if the player does not appear, use the [direct video link](screenshots/demo.mp4).
-
 ## Architecture
 
 ![MultiPDF RAG Assistant architecture](assets/architecture.png)
